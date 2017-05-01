@@ -12,4 +12,4 @@ Slides can be found here:
 https://slides.com/zacklee/drop-table-users/live#/
 
 Cluster Plot 
-[![Demo CountPages alpha]](https://plot.ly/~erdos2n/0.embed)
+[![Demo CountPages alpha]](https://plot.ly/~erdos2n/0.embed)(https://plot.ly/~erdos2n/0.embed)
