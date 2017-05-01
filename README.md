@@ -12,6 +12,4 @@ Slides can be found here:
 https://slides.com/zacklee/drop-table-users/live#/
 
 Cluster Plot 
-{::nomarkdown}
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~erdos2n/0.embed"></iframe>
-{:/}
+[![Demo CountPages alpha]](https://plot.ly/~erdos2n/0.embed)
