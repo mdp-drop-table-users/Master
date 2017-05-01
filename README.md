@@ -11,4 +11,4 @@ Rafael Carrasco - Lead Data Scientist
 Slides can be found here:
 https://slides.com/zacklee/drop-table-users/live#/
 
-[![See cluster plot here]](https://plot.ly/~erdos2n/0.embed)
+[[See cluster plot here]](https://plot.ly/~erdos2n/0.embed)
